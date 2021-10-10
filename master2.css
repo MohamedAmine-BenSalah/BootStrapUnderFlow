@@ -17,3 +17,9 @@ transform: translate(-50%,-50%);
     background-color:(135,167,222) ;
 }
 
+.centre {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}

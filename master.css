@@ -3,7 +3,7 @@
     position: absolute;
     align-items: center;
     justify-content: center;
-    background-color: white;
+    background-color: rgb(227, 223, 245);
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
@@ -12,4 +12,7 @@ body {
     background-image : url("9445102793_ff811a3670_b.jpg"); 
     background-size : auto;
     background-repeat: repeat;
+}
+.siteName {
+    text-align: center;
 }
