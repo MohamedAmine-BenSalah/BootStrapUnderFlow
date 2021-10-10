@@ -6,7 +6,7 @@ var user = [
 ]
 function getInfo(){
     var username = document.getElementById('username').value;
-    var password = document.getElementById('pwd').value
+    var password = document.getElementById('pwd').value;
 }
 function createQuestion(){
     var value = document.getElementById('Question').value;
